@@ -32,3 +32,18 @@
 # print(absolute_value(0))
 
 
+# Task4
+
+# def compare(x,y):
+#     if x > y:
+#         return 1
+#     elif x == 1:
+#         return 0
+#     elif x < y:
+#         return -1
+#
+# compare(1,3)
+
+
+
+#the end
